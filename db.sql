@@ -1,3 +1,3 @@
 db.username
-db.password
 select * from all_tables
+select * from all_views
