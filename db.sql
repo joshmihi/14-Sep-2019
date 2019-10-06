@@ -4,3 +4,4 @@ select * from all_tables
 new changes 
 =======
 select * from all_views
+select * from all_constraints
